@@ -1,0 +1,19 @@
+# Task 4: Professional Email & Etiquette Guide
+
+## 📌 Project Overview
+This task focuses on developing professional digital communication skills, including drafting formal emails and understanding the ethics of maintaining a clean, professional social media presence as a university student.
+
+## 📂 Repository Structure
+* `professional-emails.md`: Drafts of two formal emails (extension request and internship inquiry).
+* `social-media-checklist.md`: A 10-point Do's and Don'ts guide for digital etiquette.
+* `README.md`: Project report.
+
+---
+
+## 📝 Project Report (Communication Case Study)
+
+A common situation where poor digital communication causes real problems is when a student sends an urgent, frustrated email to a professor about a grade without a subject line, proper salutation, or clear context. For example, a student might simply write, "Why did I get a zero on this?" from a personal, unprofessional email address like 'skaterdude99@gmail.com'. 
+
+This creates immediate friction. The professor doesn't know who the student is, which class they are referring to, or what assignment is in question, delaying resolution and creating a poor professional impression. 
+
+This could be easily avoided by using a university-issued email address, writing a clear and specific subject line (e.g., "Question Regarding Module 2 Grade - CS101"), using a respectful greeting ("Dear Professor Smith,"), and calmly explaining the issue with necessary identifying details.
