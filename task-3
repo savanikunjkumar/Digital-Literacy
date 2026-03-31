@@ -1,0 +1,37 @@
+# Task 3: Explore Coding & Collaboration Platforms
+
+## 📌 Project Overview
+As a Digital Ambassador, this task focused on exploring industry-standard platforms for technical practice and cloud-based collaboration tools to better guide batchmates in their academic journey.
+
+---
+
+## 📂 Repository Structure
+* **task-3-platforms/**: Contains screenshots of evidence.
+    * `coding_challenge.png`: HackerRank completion proof.
+    * `google_form_view.png`: Digital Literacy Quiz editor.
+    * `google_sheets_view.png`: Linked response sheet.
+* **README.md**: Includes project report and Form link.
+
+---
+
+## 📝 Project Report
+
+**Platforms Used:** HackerRank and Google Workspace (Forms/Sheets).
+
+For the coding practice component, I used **HackerRank** to complete a beginner-level algorithmic challenge. This platform is invaluable for students because it provides a structured environment to master Data Structures and Algorithms, which are critical for technical interviews. It allows for consistent skill-tracking through badges and leaderboards.
+
+For the collaboration component, I developed a **Digital Literacy Awareness Quiz** using **Google Forms** and integrated it with **Google Sheets** for automated data collection. These tools are essential for academic research and peer collaboration, enabling the efficient gathering and analysis of data in real-time. By linking the form to a spreadsheet, I can instantly visualize common knowledge gaps among my batchmates regarding digital safety.
+
+Using these tools over the next few years will help me maintain technical rigor and organize project data more professionally. HackerRank will ensure I am industry-ready for FAANG placements, while proficiency in Google Workspace will allow me to manage complex team projects and community outreach effectively as a Digital Ambassador.
+
+---
+
+## 🔗 Digital Literacy Quiz Link
+[INSERT YOUR GOOGLE FORM SHARE LINK HERE]
+
+---
+
+### 🛠 Skills Applied
+* **Algorithmic Problem Solving:** Completing tests on competitive platforms.
+* **Cloud Collaboration:** Designing automated data collection workflows.
+* **Data Organization:** Managing linked spreadsheets for response tracking.
