@@ -1,0 +1,39 @@
+# Task 2: Student Digital Portfolio Build
+
+## 📌 Project Overview
+A professional digital presence is essential for modern engineers. In this task, I have established my foundational digital portfolio across three key platforms to showcase my technical skills, professional network, and academic progress at VIT Bhopal.
+
+---
+
+## 📂 Repository Structure
+* **task-2-portfolio/**: Contains screenshots of the verified profiles.
+    * `github_profile.png`
+    * `linkedin_profile.png`
+    * `kaggle_profile.png` (or your 3rd platform)
+* **README.md**: Project documentation and 200-word report.
+
+---
+
+## 📝 Project Report
+
+**Platforms Chosen:** GitHub, LinkedIn, and Kaggle.
+
+For my digital portfolio, I established a professional presence on **GitHub**, **LinkedIn**, and **Kaggle**. I selected these specific platforms because they represent the three pillars of a modern developer’s identity: version control, professional networking, and data science proficiency. 
+
+I use **GitHub** as a central repository for my academic code and open-source contributions. My **LinkedIn** profile serves as a professional bridge to connect with VIT alumni and industry experts, ensuring I stay updated on internship trends. Lastly, I chose **Kaggle** to explore real-world datasets, which aligns with my interest in AI and Machine Learning.
+
+Over the next four years, I plan to use these platforms as a living record of my growth. I will push regular code commits to GitHub to maintain a verifiable "contribution streak," update LinkedIn with my certifications and project milestones, and use Kaggle to build a competitive edge in data science. Consistently maintaining these profiles will ensure that by the time I graduate in 2029, I have a robust digital footprint that demonstrates my technical evolution to potential employers at top-tier tech companies.
+
+---
+
+## 🚀 Profile Links
+* **GitHub:** [github.com/your-username]
+* **LinkedIn:** [linkedin.com/in/your-username]
+* **Kaggle:** [kaggle.com/your-username]
+
+---
+
+### 🛠 Skills Applied
+* **Digital Identity Management:** Setting up professional profiles.
+* **Technical Documentation:** Creating a Profile README using Markdown.
+* **Career Planning:** Aligning digital tools with long-term professional goals.
